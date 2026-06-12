@@ -1,4 +1,4 @@
-# Week 1 — YYYY-MM-DD
+# Week 1 — 2026.6.8
 
 **Attended this week's meeting:** Yes
 
