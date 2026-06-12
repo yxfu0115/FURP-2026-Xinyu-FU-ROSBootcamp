@@ -11,7 +11,7 @@
 **Challenges & blockers**
 
 - Setting the virtual mechine on this computer is kind of difficult because this computer already have two opreating system
-- 
+
 **Next steps**
   
 - Find other commands and try to run on the virtual mechine
