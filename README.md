@@ -25,16 +25,16 @@ This is your project home for the FURP programme. **Fork this template**, rename
 
 | Field | Your entry |
 |---|---|
-| Student name(s) | _e.g. Jason Zhang_ |
-| Project title | _..._ |
-| Project tag | _e.g. ROSBootcamp_ |
+| Student name(s) | _Xinyu FU_ |
+| Project title | _ROSBootcamp_ |
+| Project tag | _ROSBootcamp_ |
 | Track | Research |
-| Supervising faculty | _..._ |
-| Project lead | _..._ |
-| Team or individual | _..._ |
+| Supervising faculty | _FURP_ |
+| Project lead | _Fuhua JIA_ |
+| Team or individual | _individual_ |
 | Cited paper being replicated | _title + link/DOI_ |
 
-**One-line summary:** _What is your project about? (1–2 sentences)_
+**One-line summary:** _This project aims to intorduce the basic ROS2 to us and build us with the relavent knowledge._
 
 ---
 
