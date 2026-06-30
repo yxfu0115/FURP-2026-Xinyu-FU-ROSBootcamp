@@ -8,12 +8,12 @@
 
 **Challenges & blockers**
 
-- 
+- Null
 
 **Next steps**
   
-- 
+- learn the diff_drive_control
 
-**Hours spent (optional):** 3h +
+**Hours spent (optional):** 5h
 
 **Links (optional):** Null
