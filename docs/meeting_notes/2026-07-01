@@ -1,0 +1,26 @@
+# Meeting Notes
+
+---
+
+**Date:** 2026-07-01
+**Type:** Weekly meeting
+**Attendees:** ALL
+
+## Discussion summary
+- distinguish the difference between /odom and /map
+- odom的数据来自/scan话题的扫描数据
+- map给的是robot在地图中的绝对位置
+- 优化问题：构建/scan和/map的惩罚函数来让定位更加精确
+- path是几何路线（绿），在/map上的（gloable cost map）
+- trajectory是带时间，速度等，是在robot上的（local cost map）
+- 原地自转可能是恢复行为
+
+## Decisions made
+- _What was agreed?_
+
+## Action items
+- conputation graph_this week
+- nav2 parameter debug_this week
+
+## Questions / follow-ups
+- NULL
